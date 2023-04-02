@@ -8,9 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fianda12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif"  />
+
 
 ### Language of tools
 
@@ -22,6 +25,9 @@
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+  
+  
+  <br clear="both">
 
 
 
@@ -29,13 +35,23 @@
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/fikri-amanda-b18255262/)
 
+<br clear="both">
 
-### ✍️ Random Dev Quote
+
+### Random Dev Quote
+
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
 
 ###
 
 <br clear="both">
+
+<div align="center">
+  
 
 <picture>
   <source
@@ -57,6 +73,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+  
+</div>
+
 
 ###
 
