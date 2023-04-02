@@ -38,7 +38,7 @@
 <br clear="both">
 
 
-### Random Dev Quote
+### Dev Quote
 
 <div align="center">
   
