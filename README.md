@@ -1,53 +1,53 @@
-<h2 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  My name is Fikri</h2>
+## Ship · learn · repeat
 
-###
+<p><code>fellivial@github:~$ whoami</code></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fellivial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fellivial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=fellivial&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42486073%3Fu%3D7e52ad1df2aa8cf28246007745622480f5b5d6a0%26v%3D4&style=terminal" alt="fellivial hero visual" />
+</p>
 
-<br clear="both">
+**Fel** · Dev
 
-###
+## The current loop
 
-<img align="right" height="150" src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif"  />
+> Building useful things and learning in public.
 
+- 👥 **4** followers · **4** following
 
-### Language of tools
+*Small, useful work over vague claims.*
 
+## Things I’m building
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  
-  <br clear="both">
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Fellivial/Fellivial">Fellivial</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
+## Launch notes
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=fellivial&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42486073%3Fu%3D7e52ad1df2aa8cf28246007745622480f5b5d6a0%26v%3D4" alt="fellivial highlights visual" />
+</p>
 
-### Socials:
+<p><b>Fel</b> is shipping 1 public projects with 0 stars of proof.</p>
 
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/fikri-amanda-b18255262/)
+## Signals
 
-<br clear="both">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=fellivial&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42486073%3Fu%3D7e52ad1df2aa8cf28246007745622480f5b5d6a0%26v%3D4" alt="fellivial stats visual" />
+</p>
 
+<p><code>0 contributions</code> · <code>0 day streak</code></p>
 
-### Dev Quote
+## The shipping calendar
 
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=fellivial&theme=neon" alt="fellivial contribution activity" />
+</p>
 
-###
+## Work with me
 
-<br clear="both">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=fellivial&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42486073%3Fu%3D7e52ad1df2aa8cf28246007745622480f5b5d6a0%26v%3D4" alt="fellivial social visual" />
+</p>
 
-###
-
-[![](https://visitcount.itsvg.in/api?id=Fellivial&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/fellivial">GitHub</a>
